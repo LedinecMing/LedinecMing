@@ -1,4 +1,4 @@
 ### Статистика профиля
-[![](https://github-readme-stats.vercel.app/api?username=LedinecMing)]
+![](https://github-readme-stats.vercel.app/api?username=LedinecMing)
 
 
