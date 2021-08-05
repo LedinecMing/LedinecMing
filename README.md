@@ -5,7 +5,7 @@
   <h1 style="color: 70a5fd;"><a href=https://github.com/LedinecMing/D3ngine>D3ngine</a></h1>
   <span style="color: 38bdae;">Трёх-мерный движок основанный на рейкастинге шейдером.
 Пример работы текущей версии<br>
-<img href=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.png>
+<img href=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png>
 Управление<br>
 Используйте wasd для передвижения Используйте стрелочки для поворота камеры Используйте Shift Space для движения по высоте</span>
 </div>
