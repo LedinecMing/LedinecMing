@@ -4,7 +4,7 @@
 
   <span>Трёх-мерный движок основанный на рейкастинге шейдером.<br>
 Пример работы текущей версии<br>
-<img src=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png height=382 width=252><br>
+<img src=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png height=250 width=400><br>
 Управление:<br>
   Используйте wasd для передвижения Используйте стрелочки для поворота камеры Используйте Shift Space для движения по высоте</span>
 
