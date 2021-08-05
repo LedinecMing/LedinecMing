@@ -2,9 +2,9 @@
 
   <h2 style="color: 70a5fd;">Текущий главный проект</h2>
   <h1 style="color: 70a5fd;"><a href=https://github.com/LedinecMing/D3ngine>D3ngine</a></h1>
-  <span style="color: 38bdae;">Трёх-мерный движок основанный на рейкастинге шейдером.
+  <span style="color: 38bdae;">Трёх-мерный движок основанный на рейкастинге шейдером.<br>
 Пример работы текущей версии<br>
-<img href=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png>
+<img src=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png>
 Управление<br>
 Используйте wasd для передвижения Используйте стрелочки для поворота камеры Используйте Shift Space для движения по высоте</span>
 
