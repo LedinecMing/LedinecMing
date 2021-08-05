@@ -2,7 +2,7 @@
   <h2>Текущий главный проект</h2>
   <h1><a href=https://github.com/LedinecMing/D3ngine>D3ngine</a></h1>
 
-  <span>Трёх-мерный движок основанный на рейкастинге шейдером.<br>
+  <span>Трёхмерный движок основанный на рейкастинге шейдером.<br>
 Пример работы текущей версии<br>
 <img src=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png height=250 width=400><br>
 Управление:<br>
