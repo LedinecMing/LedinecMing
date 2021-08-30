@@ -5,8 +5,10 @@
   <span>Трёхмерный движок основанный на рейкастинге шейдером.<br>
 Пример работы текущей версии<br>
 <img src=https://raw.githubusercontent.com/LedinecMing/D3ngine/main/Screenshots/снимок.png height=250 width=400><br>
-Управление:<br>
-  Используйте wasd для передвижения Используйте стрелочки для поворота камеры Используйте Shift Space для движения по высоте</span>
+Управление:
+Используйте wasd для передвижения  
+Используйте стрелочки для поворота камеры  
+Используйте Shift Space для движения по высоте
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LedinecMing&theme=tokyonight&custom_title=Используемые+языки&locale=ru)
 
