@@ -1,5 +1,5 @@
 <h1 align=center>Contacts</h2>  
-<p align=center><a href=https://github.com/LedinecMing><img src=https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white></a><a href=https://discord.gg/EGbp4kCvvr><img src=https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white></a></p>
+<p align=center><a href=https://github.com/LedinecMing><img src=https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white></a><a href=https://discordapp.com/users/583328855201153031><img src=https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white></a></p>
 <h1 align=center>Currently working on</h3>  
 <h2 align=center><a href=https://github.com/LedinecMing/console_images>Console-images</a></h2>  
 <p align=center><img src=https://raw.githubusercontent.com/LedinecMing/console_images/main/examples/billy.gif></p>  
